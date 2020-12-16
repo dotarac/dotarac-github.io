@@ -1,2 +1,2 @@
-# dotarac-github.io
+# dotarac.github.io
 Personal Page of David-Olivier Tarac
